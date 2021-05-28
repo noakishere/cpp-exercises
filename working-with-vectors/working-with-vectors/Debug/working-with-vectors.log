@@ -1,0 +1,4 @@
+﻿  working-with-vectors.cpp
+D:\Books & Essays\Game Dev journey\C++\Programming Principles and Practice Using C++\github-repo\cpp-exercises\working-with-vectors\working-with-vectors\working-with-vectors.cpp(8,20): warning C4018: '<': signed/unsigned mismatch
+D:\Books & Essays\Game Dev journey\C++\Programming Principles and Practice Using C++\github-repo\cpp-exercises\working-with-vectors\working-with-vectors\working-with-vectors.cpp(9,25): warning C4018: '<': signed/unsigned mismatch
+  working-with-vectors.vcxproj -> D:\Books & Essays\Game Dev journey\C++\Programming Principles and Practice Using C++\github-repo\cpp-exercises\working-with-vectors\Debug\working-with-vectors.exe
